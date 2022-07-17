@@ -279,6 +279,6 @@ Our best performing model was XGBoost with the best AUC score of 75.37%, The low
 ## Kaggle Submission
 Please provide a screenshot of your best kaggle submission for traditional & Multi layer neural network model.   
 
-<img src="https://imgur.com/eDJ18Dg.png" />
+<img src="https://imgur.com/Ke26U9v.png" />
 
-<img src="https://imgur.com/CFVFByV.png" />
+<img src="https://imgur.com/2gxD1NV.png" />
