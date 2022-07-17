@@ -5,9 +5,9 @@ The course project is based on the Kaggle Competition on Home Credit Default Ris
 ## Abstract
 The purpose of this project is to create a machine learning model/deep learning model that can predict consumer behavior during loan repayment.
 
-In this phase our goal is to build a multi-layer neural network model in Pytorch and use Tensorboard to visualize real-time training results.This phase focused on building high performance Neural Networks and monitoring error generalization with early stopping technique and evaluating the model performance by monitoring through loss functions such as CXE and Hinge Loss.We did built 2 models, First model contains one linear layer with Relu function for probability prediction and the second model contain one linear layer, one hidden layer with Relu function and sigmoid function for probability prediction. Using Tensorboard we visualize the CXE loss for training data for each epoch.
+In this phase our goal is to build a multi-layer neural network model in Pytorch and use Tensorboard to visualize real-time training results.This phase focused on building high performance Neural Networks and monitoring error generalization with early stopping technique and evaluating the model performance by monitoring through loss functions such as CXE and Hinge Loss. I did built 2 models, First model contains one linear layer with Relu function for probability prediction and the second model contain one linear layer, one hidden layer with Relu function and sigmoid function for probability prediction. Using Tensorboard to visualize the CXE loss for training data for each epoch.
 
-Our results in this phase for multi layer neural network model the AUC scores are 0.588 for train data and 0.5172 for test data. For single layer model the AUC score is 0.7558 for test data. For our submission in kaggle we received a public score of 0.512 and private score of 0.510.
+Our results in this phase for multi layer neural network model the AUC scores are 0.588 for train data and 0.5172 for test data. For single layer model the AUC score is 0.7558 for test data. For our submission in kaggle and received a public score of 0.512 and private score of 0.510.
 
 
 ## Project Description
@@ -28,7 +28,7 @@ The pipeline results will be compared and ranked using the appropriate measureme
 
 *Workflow*
 
-For this project, we are following the proposed workflow as mentioned below.	
+For this project, Iam following the proposed workflow as mentioned below.	
 
 <img src="https://imgur.com/LEFwBmr.png" />
 
